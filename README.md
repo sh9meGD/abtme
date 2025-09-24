@@ -6,4 +6,4 @@ Go, Python, Web Coder
 
 Eblan, Huesos, Bezdelnik
 
-GitHub Stats: github-readme-stats.vercel.app/api?username=sh9meGD
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh9meGD&show_icons=true&theme=dark&hide_title=true)
